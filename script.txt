@@ -1,1 +1,2 @@
 scriiipt
+console log s2
